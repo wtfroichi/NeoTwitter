@@ -1,148 +1,149 @@
 {
-    "name": "NeoTwitter",
-    "subtitle": "Make twitter great again.",
-    "description": "A couple modified Twitter apps, restoring new rebranding and stuff.",
-    "iconURL": "https://github.com/wtfroichi/NeoFreeBird-app-port/blob/update-11.33/Branding/Icon.png",
-    "headerURL": "https://github.com/wtfroichi/NeoFreeBird-app-port/blob/update-11.33/Branding/header_oldTW.png",
-    "website": "https://dev.rprieto.com",
-    "tintColor": "#6f8398",
-    "featuredApps": [
-        "com.atebits.Tweetie2p",
-    ],
-    "apps": [
+  "name": "NeoTwitter",
+  "subtitle": "Make twitter great again.",
+  "description": "A couple modified Twitter apps, restoring new rebranding and stuff.",
+  "iconURL": "https://github.com/wtfroichi/NeoFreeBird-app-port/blob/update-11.33/Branding/Icon.png",
+  "headerURL": "https://github.com/wtfroichi/NeoFreeBird-app-port/blob/update-11.33/Branding/header_oldTW.png",
+  "website": "https://dev.rprieto.com",
+  "tintColor": "#6f8398",
+  "featuredApps": [
+    "com.atebits.Tweetie2p"
+  ],
+  "apps": [
+    {
+      "name": "NeoFreeBird",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "actuallyaridan, nyaathea, timi2506",
+      "subtitle": "A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.",
+      "localizedDescription": "Listed on 10-30-2025.",
+      "iconURL": "https://github.com/wtfroichi/NeoFreeBird-app-port/blob/update-11.33/Branding/Icon.png",
+      "tintColor": "#1DA1F2",
+      "screenshots": [
+        "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/Branding/screenshots/IMG_9189.png",
+        "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/Branding/screenshots/IMG_9190.png",
         {
-            "name": "NeoFreeBird",
-            "bundleIdentifier": "com.atebits.Tweetie2",
-            "developerName": "actuallyaridan, nyaathea, timi2506",
-            "subtitle": "A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.",
-            "localizedDescription": "Listed on 10-30-2025.",
-            "iconURL": "https://github.com/wtfroichi/NeoFreeBird-app-port/blob/update-11.33/Branding/Icon.png",
-            "tintColor": "#1DA1F2",
-            "screenshots": [
-                "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/Branding/screenshots/IMG_9189.png",
-                "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/Branding/screenshots/IMG_9190.png"
-                ],
-                {
-                    "imageURL": "https://neofreebird.aridan.net/images/IMG_9219.png",
-                    "width": 2556,
-                    "height": 1179
-                }
-            ]
-            "versions": [
-                {
-                    "version": "2.1r2",
-                    "date": "2025-10-28T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.1/NeoFreeBird-2.1-Twitter-11.33-rev2.ipa",
-                    "localizedDescription": "Twitter, version 11.33. NeoFreeBird, version 2.1rev2."
-                }
-                {
-                    "version": "2.1r1",
-                    "date": "2025-10-26T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.1/NeoFreeBird-2.1-Twitter-11.33.ipa",
-                    "localizedDescription": "Twitter, version 11.33. NeoFreeBird, version 2.1."
-                },
-                {
-                    "version": "2.0r2",
-                    "date": "2025-08-15T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.0/NeoFreeBird-2.0r2-Twitter-11.5.5.ipa",
-                    "localizedDescription": "Twitter, version 11.5.5. NeoFreeBird, version 2.0."
-                },
-                {
-                    "version": "1.0r3",
-                    "date": "2025-05-04T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/1.0/NeoFreeBird-1.0-Twitter-10.94-rev3.ipa",
-                    "localizedDescription": "Twitter, version 10.94. NeoFreeBird, version 1.0."
-                },
-                {
-                    "version": "0.5-beta29",
-                    "date": "2025-04-22T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.5-beta/Beta-build-29-NeoFreeBird-0.5-Twitter-10.77.1.ipa",
-                    "localizedDescription": "Twitter 10.77.1 Based. Build not complete, pre release for 1.0."
-                },
-                {
-                    "version": "0.4c",
-                    "date": "2025-02-26T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.4/NeoFreeBird-Classic-0.4-Twitter-10.77.1.ipa",
-                    "localizedDescription": "Twitter 10.77.1 Based. Release with New Icons."
-                },
-                {
-                    "version": "0.4",
-                    "date": "2025-02-26T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.4/NeoFreeBird-0.4-Twitter-10.77.1.ipa",
-                    "localizedDescription": "Twitter 10.77.1 Based. Release with Old Icons."
-                },
-                {
-                    "version": "0.3r2",
-                    "date": "2025-01-19T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.3/NeoFreeBird-0.3-Twitter-10.76-new-icons.ipa",
-                    "localizedDescription": "Twitter 10.76 Based. Release with New Icons."
-                },
-                {
-                    "version": "0.3r1",
-                    "date": "2025-01-19T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.3/NeoFreeBird-0.3-Twitter-10.76-old-icons.ipa",
-                    "localizedDescription": "Twitter 10.76 Based. Release with Old Icons."
-                },
-                {
-                    "version": "0.2r2",
-                    "date": "2025-01-15T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.2/NeoFreeBird-0.2-Twitter-10.76-new-icons.ipa",
-                    "localizedDescription": "Twitter 10.76 Based. Release with New Icons."
-                },
-                {
-                    "version": "0.2r1",
-                    "date": "2025-01-15T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.2/NeoFreeBird-0.2-Twitter-10.76-old-icons.ipa",
-                    "localizedDescription": "Twitter 10.76 Based. Release with Old Icons."
-                },
-                {
-                    "version": "0.1r2",
-                    "date": "2025-01-12T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.1/NeoFreeBird-0.1-Twitter-10.76-new-icons.ipa",
-                    "localizedDescription": "Twitter 10.76 Based. Initial release with New Icons."
-                },
-                {
-                    "version": "0.1r1",
-                    "date": "2025-01-12T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.1/NeoFreeBird-0.1-Twitter-10.76-old-icons.ipa",
-                    "localizedDescription": "Twitter 10.76 Based. Initial release with Old Icons."
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [
-                    "com.apple.security.application-groups",
-                    "com.apple.developer.siri"
-                ],
-                "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
-                    "NSCameraUsageDescription": "App uses camera to take photos.",
-                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
-                }
-            }
+          "imageURL": "https://neofreebird.aridan.net/images/IMG_9219.png",
+          "width": 2556,
+          "height": 1179
+        }
+      ],
+      "versions": [
+        {
+          "version": "2.1r2",
+          "date": "2025-10-28T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.1/NeoFreeBird-2.1-Twitter-11.33-rev2.ipa",
+          "localizedDescription": "Twitter, version 11.33. NeoFreeBird, version 2.1rev2."
         },
-    ],
-    "news": [
         {
-            "title": "Introducing NeoTwitter Repo",
-            "identifier": "hello_world",
-            "caption": "Introducing NeoTwitter Repo on AltStore!",
-            "date": "2025-10-30",
-            "tintColor": "#6f8398",
-            "notify": true,
-
+          "version": "2.1r1",
+          "date": "2025-10-26T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.1/NeoFreeBird-2.1-Twitter-11.33.ipa",
+          "localizedDescription": "Twitter, version 11.33. NeoFreeBird, version 2.1."
+        },
+        {
+          "version": "2.0r2",
+          "date": "2025-08-15T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.0/NeoFreeBird-2.0r2-Twitter-11.5.5.ipa",
+          "localizedDescription": "Twitter, version 11.5.5. NeoFreeBird, version 2.0."
+        },
+        {
+          "version": "1.0r3",
+          "date": "2025-05-04T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/1.0/NeoFreeBird-1.0-Twitter-10.94-rev3.ipa",
+          "localizedDescription": "Twitter, version 10.94. NeoFreeBird, version 1.0."
+        },
+        {
+          "version": "0.5-beta29",
+          "date": "2025-04-22T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.5-beta/Beta-build-29-NeoFreeBird-0.5-Twitter-10.77.1.ipa",
+          "localizedDescription": "Twitter 10.77.1 Based. Build not complete, pre release for 1.0."
+        },
+        {
+          "version": "0.4c",
+          "date": "2025-02-26T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.4/NeoFreeBird-Classic-0.4-Twitter-10.77.1.ipa",
+          "localizedDescription": "Twitter 10.77.1 Based. Release with New Icons."
+        },
+        {
+          "version": "0.4",
+          "date": "2025-02-26T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.4/NeoFreeBird-0.4-Twitter-10.77.1.ipa",
+          "localizedDescription": "Twitter 10.77.1 Based. Release with Old Icons."
+        },
+        {
+          "version": "0.3r2",
+          "date": "2025-01-19T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.3/NeoFreeBird-0.3-Twitter-10.76-new-icons.ipa",
+          "localizedDescription": "Twitter 10.76 Based. Release with New Icons."
+        },
+        {
+          "version": "0.3r1",
+          "date": "2025-01-19T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.3/NeoFreeBird-0.3-Twitter-10.76-old-icons.ipa",
+          "localizedDescription": "Twitter 10.76 Based. Release with Old Icons."
+        },
+        {
+          "version": "0.2r2",
+          "date": "2025-01-15T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.2/NeoFreeBird-0.2-Twitter-10.76-new-icons.ipa",
+          "localizedDescription": "Twitter 10.76 Based. Release with New Icons."
+        },
+        {
+          "version": "0.2r1",
+          "date": "2025-01-15T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.2/NeoFreeBird-0.2-Twitter-10.76-old-icons.ipa",
+          "localizedDescription": "Twitter 10.76 Based. Release with Old Icons."
+        },
+        {
+          "version": "0.1r2",
+          "date": "2025-01-12T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.1/NeoFreeBird-0.1-Twitter-10.76-new-icons.ipa",
+          "localizedDescription": "Twitter 10.76 Based. Initial release with New Icons."
+        },
+        {
+          "version": "0.1r1",
+          "date": "2025-01-12T07:00:00-08:00",
+          "size": 10000000,
+          "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.1/NeoFreeBird-0.1-Twitter-10.76-old-icons.ipa",
+          "localizedDescription": "Twitter 10.76 Based. Initial release with Old Icons."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.siri"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+          "NSCameraUsageDescription": "App uses camera to take photos.",
+          "NSMicrophoneUsageDescription": "App uses microphone to record video."
+        }
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "Introducing NeoTwitter Repo",
+      "identifier": "hello_world",
+      "caption": "Introducing NeoTwitter Repo on AltStore!",
+      "date": "2025-10-30",
+      "tintColor": "#6f8398",
+      "notify": true
+    }
+  ]
+}
 
     ]
 }
