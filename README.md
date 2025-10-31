@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./Branding/Icon_rounded.png" alt="NeoFreeBird" width="130" height="130">
  
-  # NeoFreeBird
+  # NeoTwitter
   <i>Make twitter great again!</i>
 
 <a> This is a simple AltStore repo logging my favorite alternatives of rebranding Twitter as X.
