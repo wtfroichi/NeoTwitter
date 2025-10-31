@@ -35,7 +35,7 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.1/NeoFreeBird-2.1-Twitter-11.33-rev2.ipa",
           "localizedDescription": "Twitter, version 11.33. NeoFreeBird, version 2.1rev2.",
-          "sha256": ""
+          "sha256": "sha256:0786ea17977b82471e37e29be9949ba71d371475247df063f545428d5ecb7b62"
         },
         {
           "version": "2.1.1",
@@ -43,7 +43,7 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.1/NeoFreeBird-2.1-Twitter-11.33.ipa",
           "localizedDescription": "Twitter, version 11.33. NeoFreeBird, version 2.1.",
-          "sha256": ""
+          "sha256": "sha256:618ae9933aaef9f2469e4aa304f66ffdd23d6b4b37f13f8c9a894bda32faa03e"
         },
         {
           "version": "2.0.2",
@@ -51,7 +51,7 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.0/NeoFreeBird-2.0r2-Twitter-11.5.5.ipa",
           "localizedDescription": "Twitter, version 11.5.5. NeoFreeBird, version 2.0.",
-          "sha256": ""
+          "sha256": "sha256:ef58d0185b7e515551c4d9bf65caeeb835179793b68b96aec694950fe88957f8"
         },
         {
           "version": "1.0.3",
@@ -59,7 +59,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/1.0/NeoFreeBird-1.0-Twitter-10.94-rev3.ipa",
           "localizedDescription": "Twitter, version 10.94. NeoFreeBird, version 1.0.",
-          "sha256": ""
         },
         {
           "version": "0.5",
@@ -67,7 +66,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.5-beta/Beta-build-29-NeoFreeBird-0.5-Twitter-10.77.1.ipa",
           "localizedDescription": "Twitter 10.77.1 based. Build not complete, pre-release for 1.0.",
-          "sha256": ""
         },
         {
           "version": "0.4.1",
@@ -75,7 +73,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.4/NeoFreeBird-Classic-0.4-Twitter-10.77.1.ipa",
           "localizedDescription": "Twitter 10.77.1 based. Release with new icons.",
-          "sha256": ""
         },
         {
           "version": "0.4",
@@ -83,7 +80,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.4/NeoFreeBird-0.4-Twitter-10.77.1.ipa",
           "localizedDescription": "Twitter 10.77.1 based. Release with old icons.",
-          "sha256": ""
         },
         {
           "version": "0.3.2",
@@ -91,7 +87,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.3/NeoFreeBird-0.3-Twitter-10.76-new-icons.ipa",
           "localizedDescription": "Twitter 10.76 based. Release with new icons.",
-          "sha256": ""
         },
         {
           "version": "0.3.1",
@@ -99,7 +94,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.3/NeoFreeBird-0.3-Twitter-10.76-old-icons.ipa",
           "localizedDescription": "Twitter 10.76 based. Release with old icons.",
-          "sha256": ""
         },
         {
           "version": "0.2.2",
@@ -107,7 +101,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.2/NeoFreeBird-0.2-Twitter-10.76-new-icons.ipa",
           "localizedDescription": "Twitter 10.76 based. Release with new icons.",
-          "sha256": ""
         },
         {
           "version": "0.2.1",
@@ -115,7 +108,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.2/NeoFreeBird-0.2-Twitter-10.76-old-icons.ipa",
           "localizedDescription": "Twitter 10.76 based. Release with old icons.",
-          "sha256": ""
         },
         {
           "version": "0.1.2",
@@ -123,7 +115,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.1/NeoFreeBird-0.1-Twitter-10.76-new-icons.ipa",
           "localizedDescription": "Twitter 10.76 based. Initial release with new icons.",
-          "sha256": ""
         },
         {
           "version": "0.1.1",
@@ -131,7 +122,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/0.1/NeoFreeBird-0.1-Twitter-10.76-old-icons.ipa",
           "localizedDescription": "Twitter 10.76 based. Initial release with old icons.",
-          "sha256": ""
         }
       ],
       "appPermissions": {
