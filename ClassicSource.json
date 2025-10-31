@@ -35,7 +35,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.1/NeoFreeBird-2.1-Twitter-11.33-rev2.ipa",
           "localizedDescription": "Twitter, version 11.33. NeoFreeBird, version 2.1rev2.",
-          "sha256": "0786ea17977b82471e37e29be9949ba71d371475247df063f545428d5ecb7b62"
         },
         {
           "version": "2.1.1",
@@ -43,7 +42,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.1/NeoFreeBird-2.1-Twitter-11.33.ipa",
           "localizedDescription": "Twitter, version 11.33. NeoFreeBird, version 2.1.",
-          "sha256": "618ae9933aaef9f2469e4aa304f66ffdd23d6b4b37f13f8c9a894bda32faa03e"
         },
         {
           "version": "2.0.2",
@@ -51,7 +49,6 @@
           "size": 0,
           "downloadURL": "https://github.com/NeoFreeBird/app/releases/download/2.0/NeoFreeBird-2.0r2-Twitter-11.5.5.ipa",
           "localizedDescription": "Twitter, version 11.5.5. NeoFreeBird, version 2.0.",
-          "sha256": "ef58d0185b7e515551c4d9bf65caeeb835179793b68b96aec694950fe88957f8"
         },
         {
           "version": "1.0.3",
