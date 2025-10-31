@@ -1,10 +1,11 @@
 {
   "name": "NeoTwitter",
   "subtitle": "Make twitter great again.",
-  "description": "A couple modified Twitter apps, restoring new rebranding and stuff.",
+  "description": "A couple modified Twitter apps, restoring new rebranding and stuff. Introduced by /wtfroichi.",
   "iconURL": "https://raw.githubusercontent.com/wtfroichi/NeoFreeBird-app-port/update-11.33/Branding/Icon.png",
   "headerURL": "https://raw.githubusercontent.com/wtfroichi/NeoFreeBird-app-port/update-11.33/Branding/header_oldTW.png",
   "website": "https://dev.rprieto.com",
+  "fediUsername": "neotwitter",
   "tintColor": "#6f8398",
   "featuredApps": [
     "com.atebits.Tweetie2"
