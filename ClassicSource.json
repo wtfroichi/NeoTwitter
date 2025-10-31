@@ -7,7 +7,7 @@
   "website": "https://dev.rprieto.com",
   "tintColor": "#6f8398",
   "featuredApps": [
-    "com.atebits.Tweetie2p"
+    "com.atebits.Tweetie2"
   ],
   "apps": [
     {
@@ -132,7 +132,7 @@
         }
       }
     }
-  ],
+  ]
   "news": [
     {
       "title": "Introducing NeoTwitter Repo",
